@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # first_App
 # photo_App
 # act_example
+# sec_app
