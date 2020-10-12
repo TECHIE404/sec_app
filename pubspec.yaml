@@ -23,8 +23,11 @@ flutter:
 
   uses-material-design: true
   assets:
-    - images/owl-2.jpg
+    - images/camera.webp
     - images/river.jpeg
     - images/float.jpg
+    - images/photo.png
+    - images/logo.jpg
+    - images/ravi-kishan.jpg
 
 
